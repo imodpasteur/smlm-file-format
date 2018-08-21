@@ -13,7 +13,7 @@
  * fast preview with thumbnail support (thumbnail can be retrieved without unzipping the whole file)
 
 ## ThunderSTORM Plugin
-For supporting import and export as SMLM file format, we developed a ThunderSTORM Plugin which can be downloaded in the release.
+For supporting import and export as SMLM file format, we developed a ThunderSTORM Plugin which can be downloaded in the [releases](https://github.com/imodpasteur/smlm-file-format/releases). In order to make it work, you need also the ThunderSTORM plugin. Once you installed the SMLM file format plugin, you will be able to choose the "SMLM File" option when you are importing and exporting with ThunderSTORM. See [here](https://github.com/imodpasteur/smlm-file-format/tree/master/implementations/Java/ThunderSTORM) for more details about the plugin.
 
 ## Benchmarks
 
