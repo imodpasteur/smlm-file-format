@@ -14,7 +14,7 @@
 
 ## ShareLoc Web App
 
-You can also visualize your localization data with our [ShareLoc Web App](https://shareloc.xyz/#/viewer).
+You can now visualize your localization data with our [ShareLoc Web App](https://shareloc.xyz/#/viewer).
 
 [ShareLoc.xyz](https://shareloc.xyz) is a new website developed by us for promoting exchanging and sharing localization microscopy data. It consists of storage server which hold the publicly uploaded localization microscopy data, and a web application which allows easy sharing and visualization of the localization data, with **only** the browser.
 
