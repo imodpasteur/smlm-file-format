@@ -1,6 +1,6 @@
 # Import and Export SMLM File in ThunderSTORM
 
-**[Work In Progress]** available soon!
+**[UPDATE]** For adding SMLM file support to ThunderSTORM, download and install [this plugin](https://github.com/imodpasteur/smlm-file-format/releases) together with ThunderSTORM.
 
 This is an ImageJ/ThunderSTORM plugin for adding SMLM file import/export support to ThunderSTORM.
 
