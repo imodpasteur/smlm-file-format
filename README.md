@@ -12,8 +12,19 @@
  * support meta information (store sample information in readable text format)
  * fast preview with thumbnail support (thumbnail can be retrieved without unzipping the whole file)
 
+## ShareLoc Web App
+
+You can also visualize your localization data with our [ShareLoc Web App](https://shareloc.xyz/#/viewer).
+
+[ShareLoc.xyz](https://shareloc.xyz) is a new website developed by us for promoting exchanging and sharing localization microscopy data. It consists of storage server which hold the publicly uploaded localization microscopy data, and a web application which allows easy sharing and visualization of the localization data, with **only** the browser.
+
+With [ShareLoc.xyz](https://shareloc.xyz), you can share your localization data privately with others through an secured url, or upload your samples to our repository for public access.
+
+For more detailed information about the platform, take a look at the [ShareLoc source code](https://github.com/imodpasteur/shareLoc.xyz).
+
 ## ThunderSTORM Plugin
-For supporting import and export as SMLM file format, we developed a ThunderSTORM Plugin which can be downloaded in the [releases](https://github.com/imodpasteur/smlm-file-format/releases). In order to make it work, you need also the ThunderSTORM plugin. Once you installed the SMLM file format plugin, you will be able to choose the "SMLM File" option when you are importing and exporting with ThunderSTORM. See [here](https://github.com/imodpasteur/smlm-file-format/tree/master/implementations/Java/ThunderSTORM) for more details about the plugin.
+For supporting import and export as SMLM file format, we developed a ThunderSTORM Plugin which can be downloaded in the [releases](https://github.com/imodpasteur/smlm-file-format/releases). In order to make it work, you need also the ThunderSTORM plugin. Once you installed the SMLM file format plugin, you will be able to choose the "SMLM File" option when you are importing and exporting with ThunderSTORM. See [here](https://github.com/imodpasteur/smlm-file-format/blob/master/implementations/Java/ThunderSTORM/README.md) for more details about the plugin.
+
 
 ## Benchmarks
 
