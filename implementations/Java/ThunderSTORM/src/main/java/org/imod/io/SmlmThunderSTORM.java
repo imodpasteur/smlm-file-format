@@ -126,7 +126,7 @@ public class SmlmThunderSTORM implements IImportExport {
     }
 
     @Override
-    public void exportToFile(String fp, GenericTable table, List<String> columns) throws IOException {
+    public void exportToFile(String fp, int floatPrecision, GenericTable table, List<String> columns) throws IOException {
         assert(table != null);
         assert(fp != null);
         assert(!fp.isEmpty());

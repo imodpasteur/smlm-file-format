@@ -30,7 +30,7 @@
 
 	<groupId>org.imod.io</groupId>
 	<artifactId>SMLM_ThunderSTORM</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.1.1-TS-dev-2016-09-10-b1</version>
 
 	<name>SMLM ThunderSTORM</name>
 	<description>SMLM file plugin for ThunderSTORM.</description>
@@ -109,7 +109,7 @@
 		<dependency>
 			<groupId>cz.cuni.lf1.lge</groupId>
 			<artifactId>ThunderSTORM</artifactId>
-			<version>dev-2017-01-28-b1</version>
+			<version>dev-2016-09-10-b1</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
