@@ -27,7 +27,7 @@ For supporting import and export as SMLM file format, we developed a ThunderSTOR
 
 In order to make it work, you need to install the ThunderSTORM plugin first. Due to a change of plugin interface of ThunderSTORM, we had to release two different version:
  * If you use [ThunderSTORM Version 1.3](https://github.com/zitmen/thunderstorm/releases/tag/v1.3) and before, please install [SMLM File plugin v0.1.0](https://github.com/imodpasteur/smlm-file-format/releases/tag/0.1.0)
- * If you use the later versions of ThunderSTORM (e.g.: [dev-2016-09-10-b1](https://github.com/zitmen/thunderstorm/releases/tag/dev-2016-09-10-b1)), please install [SMLM File plugin v0.1.0](https://github.com/imodpasteur/smlm-file-format/releases/tag/0.1.0).
+ * If you use the later versions of ThunderSTORM (e.g.: [dev-2016-09-10-b1](https://github.com/zitmen/thunderstorm/releases/tag/dev-2016-09-10-b1)), please install [SMLM File plugin v0.1.1](https://github.com/imodpasteur/smlm-file-format/releases/tag/v0.1.1).
 
 Once you installed the SMLM file format plugin, you will be able to choose the "SMLM File" option when you are importing and exporting with ThunderSTORM. See [here](https://github.com/imodpasteur/smlm-file-format/blob/master/implementations/Java/ThunderSTORM/README.md) for more details about the plugin.
 
