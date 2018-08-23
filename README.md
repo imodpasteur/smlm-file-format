@@ -25,7 +25,7 @@ For more detailed information about the platform, take a look at the [ShareLoc s
 ## ThunderSTORM Plugin
 For supporting import and export as SMLM file format, we developed a ThunderSTORM Plugin which can be downloaded.
 
-In order to make it work, you need to install the ThunderSTORM plugin first. Due to a change of plugin interface of ThunderSTORM, we had to release two different version:
+In order to make it work, you need to install the ThunderSTORM plugin first. Due to a change of plugin interface of ThunderSTORM, we had to release two different versions:
  * If you use [ThunderSTORM Version 1.3](https://github.com/zitmen/thunderstorm/releases/tag/v1.3) and before, please install [SMLM File plugin v0.1.0](https://github.com/imodpasteur/smlm-file-format/releases/tag/0.1.0)
  * If you use the later versions of ThunderSTORM (e.g.: [dev-2016-09-10-b1](https://github.com/zitmen/thunderstorm/releases/tag/dev-2016-09-10-b1)), please install [SMLM File plugin v0.1.1](https://github.com/imodpasteur/smlm-file-format/releases/tag/v0.1.1).
 
