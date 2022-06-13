@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6576521.svg)](https://doi.org/10.5281/zenodo.6576521)
 # The SMLM file format
 #### A portable and extendable file format for storing and sharing localization microscopy data.
 
