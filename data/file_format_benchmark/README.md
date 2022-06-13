@@ -20,6 +20,8 @@
 * ## Under ThunderSTORM (version: [dev-2016-09-10-b1](https://github.com/zitmen/thunderstorm/releases/tag/dev-2016-09-10-b1)) folder, download SMLM File plugin (version: [v0.1.1](https://github.com/imodpasteur/smlm-file-format/releases/tag/v0.1.1))
 
     You should see "SMLM File" option when you are importing and exporting with ThunderSTORM
+    ![Capture du 2022-06-13 16-23-43](https://user-images.githubusercontent.com/56833522/173398651-c93f00a1-fdfd-40d3-8321-14ccd8db23f9.png)
+
 
 * ## Download corresponded data
 * ## In Fiji(ImageJ) run macro script to export __*.csv__ format to __*.smlm__ and __*.tsf__
