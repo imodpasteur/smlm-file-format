@@ -1,5 +1,5 @@
-# Data used for file size and loading time benchmarking 
-* ## 21 samples were randomly selected:
+# Data used to compare file sizes and loading times 
+* ## The following 21 data sets were  selected randomly:
 
     |Samples   |DOI|
     |--------|:----|
